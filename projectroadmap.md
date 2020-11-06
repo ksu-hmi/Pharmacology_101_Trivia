@@ -1,0 +1,8 @@
+1. Find codebase of pharmocology quiz type games, or related. (Akasha)
+2. Complete 10 questions on the cardiac drugs. (Akasha)
+3. Complete 10 questions on the respiratory drugs. (Akasha)
+4. Complete 10 questions on the diabetes drugs. (Akasha)
+5. Complete 10 questions on the neuro drugs. (Akasha)
+6. Take all questions and incorporate in code. (Akasha)
+7. Run and test code then debug, as needed. (Akasha)
+8. Work on final presentation. (Akasha )
