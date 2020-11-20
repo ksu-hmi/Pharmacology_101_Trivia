@@ -2,7 +2,7 @@
 - [x] 2. **Done** Create repository called Pharmacology 101 in ksu Github. (Akasha)
 - [x] 3. **Done** Add README file with project description to repository. (Akasha)
 - [ ] 4. Find codebase of pharmocology quiz type games, or related. (Akasha)
-- [ ] 5. Complete 10 questions on the cardiac drugs. (Akasha)
+- [x] 5. Complete 10 questions on the cardiac drugs. (Akasha)
 - [ ] 6. Complete 10 questions on the respiratory drugs. (Akasha)
 - [ ] 7. Complete 10 questions on the diabetes drugs. (Akasha)
 - [ ] 8. Complete 10 questions on the neuro drugs. (Akasha)
