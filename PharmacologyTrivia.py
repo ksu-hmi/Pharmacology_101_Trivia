@@ -259,12 +259,12 @@ def game_end():
             game_control()
         elif no.count(again) == True:
             print("        Congratulations!  You've completed the game."      )
-            print("            https://github.com/ksu-hmi/Anatomy-Game"       )
-            print("  Questions generated from information gathered from livescience.com   ")
-            print("  at the following address:  https://www.livescience.com/health        ")
+            print("            https://github.com/ksu-hmi/Pharmacology_101_Trivia"       )
+            print("     ")
+            print("  at the following address:       ")
             print("                                                         ")
             print("                   Thanks for playing!"                    )
-            print("                ------ !! B Y E !! ------                  ")
+            print("                ------ !! B Y E !! ------                ")
             
         else:
             print("oh, just yes or no!")
