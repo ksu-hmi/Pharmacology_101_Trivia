@@ -1,0 +1,23 @@
+## Diabetes medication
+
+question1 = ("What increases glucose uptake in muscle but, decreases glucose production in the liver?\n")
+question2 = ("What classification of OAD (Oral Anti-diabetic) medication delays the absorbtion of carbohydrates from the GI TRACT?\n")
+question3 = ("What decreases the rate of liver glucose production, augments glucose uptake by tissues and lowers lipids?\n")
+question4 = ("What Hyperglycemic medication increases blood glucose with in 5 - 20 minutes?\n")
+question5 = ("What stimulates rapid and short lived release of insulin from the pancreas\n")
+question6 = ("Amaryl is in what class of oral antidiabetic agents?\n")
+question7 = ("The generic name of Amaryl is?\n")
+question8 = ("In general what is the role of bolus insulin in the treatment of type1 diabetes\n")
+question9 = ("Humalog 75/25 is comprised of:\n")
+question10 = ("For patients with type 1 diabetes approximately what percentage of their daily insulin dose should be in the form of basal insulin\n")
+
+answer1 = ("Thiazolidinediones\n")
+answer2 = ("Alpha- Glucosidase\n")
+answer3 = ("Metformin\n`")
+answer4 = ("Glucagon\n")
+answer5 = ("Meglitinides\n")
+answer6 = ("Sulfonylurea\n")
+answer7 = ("Glimepiride\n")
+answer8 = ("To lower the plasma glucose spikes that result from eating\n")
+answer9 = ("75% lispro protamine (NPL) 25% lispro\n")
+answer10 = ("50%\n")

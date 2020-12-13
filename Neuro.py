@@ -1,0 +1,23 @@
+## Neurological drugs
+
+question1 = ("What is a common side effect of Carbidopa-levodopa (Sinemet)?\n")
+question2 = (" _______ is used to treat seizures and nerve pain such as trigeminal neuralgia and diabetic neuropathy?\n")
+question3 = ("What is the therapeutic serum range of phenobarbital?\n")
+question4 = ("What s a side effect of Codeine sulfate?\n")
+question5 = ("Drinking __________ can decrease the side effects of Diazepam(Valium)?\n")
+question6 = ("What drug class is Codeine sulfate in?\n")
+question7 = ("________ is a central nervous system stimulant?\n")
+question8 = ("A patient should avoid excessive intake of foods rich in what when taking levodopa?\n")
+question9 = ("The therapeutic level of phenytoin is between what range?\n")
+question10 = ("Which group of drugs mimics parasympathetic activity?\n")
+
+answer1 = ("Increased blood pressure\n")
+answer2 = ("Carbamazepine\n")
+answer3 = ("15-40mg/ml\n")
+answer4 = ("Constipation\n")
+answer5 = ("Grapefruit\n")
+answer6 = ("Opiod Analgesic\n")
+answer7 = ("Doxapram (Dopram)\n")
+answer8 = ("Pyridoxine (vitamin B6)\n")
+answer9 = ("10-20mcg/ml\n")
+answer10 = ("Cholinergic agents\n")
